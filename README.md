@@ -4,7 +4,7 @@ This is a simple password generator project built using React. It allows you to 
 
 ## Demo
 
-You can check out the live demo of the project [here](#) [replace with your deployment link].
+You can check out the live demo of the project [here](#) [https://aradhya360-passgen.netlify.app/].
 
 ## Features
 
